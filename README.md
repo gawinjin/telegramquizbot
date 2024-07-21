@@ -1,6 +1,6 @@
-SOFA.org Telegram Quiz Bot
+Telegram Quiz Bot
 
-A Telegram bot that conducts interactive quizzes about SOFA.org. This bot allows authorized users to initiate quiz sessions, while enabling open participation for all chat members. It's designed to engage users with questions about SOFA.org, its features, and its ecosystem.
+A Telegram bot that conducts interactive quizzes. This bot allows authorized users to initiate quiz sessions, while enabling open participation for all chat members. It's designed to engage users with questions about SOFA.org, its features, and its ecosystem.
 
 Features
 
